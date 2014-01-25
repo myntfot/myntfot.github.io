@@ -1,4 +1,5 @@
 myntfot.github.io
 =================
 
-Homepage
+
+<a href="http://www.myntfot.com">Homepage</a>
