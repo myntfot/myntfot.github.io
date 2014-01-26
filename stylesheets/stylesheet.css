@@ -75,6 +75,10 @@ h2 {
   padding-bottom: 10px;
   font-size: 32px;
   background: url('../images/bg_hr.png') repeat-x bottom;
+  text-decoration:none;
+  text-align:left;
+  font-family:times;
+  padding-left:10%;
 }
 
 h3 {
